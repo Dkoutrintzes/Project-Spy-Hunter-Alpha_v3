@@ -1,6 +1,6 @@
 # Project Spy Hunter Alpha_v3
 
-
+![Game Logo](https://i.imgur.com/TShO9w1.png)
 
 # Purpose of the Game:
 
