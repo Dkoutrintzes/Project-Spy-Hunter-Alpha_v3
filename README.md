@@ -1,4 +1,4 @@
-# Project Spy Hunter Alpha_v3
+# Project Recreation of Spy Hunter
 
 ![Game Logo](https://i.imgur.com/TShO9w1.png)
 
